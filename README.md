@@ -1,2 +1,2 @@
-# GUI
+Python Project 
 GUI mini projects
